@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#results {
+  text-align: left;
+}
+
+.result-card img {
+  border: 1px solid #cfcfcf;
+}
+
+#results .result-card {
+  float: left;
+  width: 120px;
+  padding: 4px;
+  border-radius: 3px;
+  border: 1px solid #efefef;
+  margin: 8px;
+  text-align: center;
+  float: left;
+}
